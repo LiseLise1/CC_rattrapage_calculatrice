@@ -1,0 +1,29 @@
+
+:root{
+    --text-size : 30px;
+    
+}
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+
+.calculator{
+    width: 100%;
+    height: 100%;
+}
+
+.calculator,.read{
+    background-color: #ffffff;
+    text-align: left;
+}
+
+.calculator,.buttons{
+    background-color: #434343;
+    text-anchor : #fff;
+
+
+}
+
